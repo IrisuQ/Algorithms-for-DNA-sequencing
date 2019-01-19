@@ -53,7 +53,7 @@ def match_naive_2mm(p, t):
 
 
 # rev = reverseComplement('AGTCGA')
-occur1 = match_naive_2mm('AGGAGGTT', genome)
+# occur1 = match_naive_2mm('AGGAGGTT', genome)
 # occur2 = match_naive(rev, genome)
 # print (occur1+occur2)
 
